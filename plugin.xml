@@ -172,6 +172,10 @@
             </pods>
         </podspec>
 
+        <framework src="FBSDKCoreKit" type="podspec" spec="5.15.0" />
+        <framework src="FBSDKLoginKit" type="podspec" spec="5.15.0" />
+        <framework src="FBSDKShareKit" type="podspec" spec="5.15.0" />
+
     </platform>
 
     <!-- browser -->
